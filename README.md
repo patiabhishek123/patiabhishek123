@@ -38,8 +38,8 @@ I’m Abhishek — a developer passionate about building scalable backends, expl
 ---
 
 ### 📫 Let’s Connect  
-- 💻 [LinkedIn](#)  
-- 📝 [Portfolio / Blog](#)  
+- 💻 [LinkedIn](https://www.linkedin.com/in/abhishek-pati-627620282/)
+-   [X](
 - 🌐 Always open to collaboration in **backend projects, blockchain apps, and OSS tools**.  
 
 ---
