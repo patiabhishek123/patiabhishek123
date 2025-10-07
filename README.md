@@ -6,8 +6,8 @@ I’m Abhishek — a developer passionate about building scalable backends, expl
 ---
 
 ### 🔧 Tech Stack & Interests  
-- **Languages:** TypeScript, Java, Python, Solidity  
-- **Backend:** Express.js, Node.js, Spring Boot  
+- **Languages:** TypeScript, Java, Python, Solidity,Rust  
+- **Backend:** Express.js, Node.js 
 - **Databases:** MongoDB, PostgreSQL  
 - **Frontend:** React, Next.js  
 - **Blockchain:** Smart contracts with Solidity & Web3 integrations  
@@ -18,7 +18,6 @@ I’m Abhishek — a developer passionate about building scalable backends, expl
 ### 🌱 What I’m Learning / Working On  
 - Designing **modular backend architectures** for apps (e.g., event & hospital management systems).  
 - Building **certificate recognition & verification on blockchain**.  
-- Participating in **AI/ML hackathons** (Amazon ML Hackathon, GenAI projects).  
 - Strengthening **open-source contributions** (Hacktoberfest, CNCF, LFX fellowship).  
 
 ---
