@@ -6,29 +6,13 @@ I’m Abhishek — a developer passionate about building scalable backends, expl
 ---
 
 ### 🔧 Tech Stack & Interests  
-- **Languages:** TypeScript, Java, Python, Solidity,Rust  
+- **Languages:** TypeScript,Golang, Java, Python, Solidity,Rust  
 - **Backend:** Express.js, Node.js 
-- **Databases:** MongoDB, PostgreSQL  
+- **Databases:** MongoDB, PostgreSQL,SqlLite3  
 - **Frontend:** React, Next.js  
 - **Blockchain:** Smart contracts with Solidity & Web3 integrations  
-- **Other Interests:** AI/ML applications, payment integrations (Cashfree, JWT auth), modular backend design  
+- **Other Interests:**Web3 applications ,Distributed systems, AI/ML applications, modular backend design  
 
----
-
-### 🌱 What I’m Learning / Working On  
-- Designing **modular backend architectures** for apps (e.g., event & hospital management systems).  
-- Building **certificate recognition & verification on blockchain**.  
-- Strengthening **open-source contributions** (Hacktoberfest, CNCF, LFX fellowship).  
-
----
-
-### 🏆 Achievements & Goals  
-- Registered for **Hacktoberfest 2025** 🎉  
-- Exploring **CNCF & LFX Fellowships** for OSS growth.  
-- Working on **research-focused GenAI tools** for students & scientists.  
-- Active in **hackathons** to test & showcase skills.  
-
----
 
 ### 📈 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=patiabhishek123&show_icons=true&theme=radical)  
@@ -38,7 +22,7 @@ I’m Abhishek — a developer passionate about building scalable backends, expl
 
 ### 📫 Let’s Connect  
 - 💻 [LinkedIn](https://www.linkedin.com/in/abhishek-pati-627620282/)
--   [X](
+-   [X](https://x.com/Abhishek38721)
 - 🌐 Always open to collaboration in **backend projects, blockchain apps, and OSS tools**.  
 
 ---
