@@ -1,30 +1,54 @@
-# 🚀 Abhishek | Developer | OSS Enthusiast  
+# Hi, I'm <Your Name> 👋
 
-### 👋 Hey there!  
-I’m Abhishek — a developer passionate about building scalable backends, exploring blockchain, and diving deep into GenAI. Currently, I’m polishing my open-source contributions, participating in hackathons, and experimenting with new tech stacks.  
-
----
-
-### 🔧 Tech Stack & Interests  
-- **Languages:** TypeScript,Golang, Java, Python, Solidity,Rust  
-- **Backend:** Express.js, Node.js 
-- **Databases:** MongoDB, PostgreSQL,SqlLite3  
-- **Frontend:** React, Next.js  
-- **Blockchain:** Smart contracts with Solidity & Web3 integrations  
-- **Other Interests:**Web3 applications ,Distributed systems, AI/ML applications, modular backend design  
-
-
-### 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=patiabhishek123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patiabhishek123&layout=compact&theme=radical)  
+Backend Engineer • AI Enthusiast • Web3 Explorer  
 
 ---
 
-### 📫 Let’s Connect  
-- 💻 [LinkedIn](https://www.linkedin.com/in/abhishek-pati-627620282/)
--   [X](https://x.com/Abhishek38721)
-- 🌐 Always open to collaboration in **backend projects, blockchain apps, and OSS tools**.  
+## 🚀 About Me
+- 🧠 Building scalable backend systems & distributed apps  
+- 🤖 Exploring LLMs, RAG, and AI-powered tools  
+- 🔗 Diving into Web3 & blockchain development  
+- ⚡ Love shipping fast and learning faster  
 
 ---
 
-⚡ *“Building one project at a time to become 1% better every day.”*  
+## 🛠️ Tech Stack
+**Languages:**  
+Java • Go • TypeScript • Python  
+
+**Backend:**  
+Spring Boot • Node.js • Express • REST APIs  
+
+**Databases:**  
+PostgreSQL • MongoDB • Redis  
+
+**DevOps & Tools:**  
+Docker • Kubernetes • GitHub Actions • Linux  
+
+**Other:**  
+LangChain • Pinecone • Solidity  
+
+---
+
+## 📌 Current Focus
+- Building production-ready backend systems  
+- Contributing to open source  
+- Preparing for backend & AI roles  
+
+---
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=patiabhishek123&show_icons=true&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=patiabhishek123&hide_border=true)
+
+---
+
+## 🌐 Connect
+- LinkedIn: <your-link>
+- Portfolio: <your-link>
+- Email: <your-email>
+
+---
+
+> “Build. Break. Learn. Repeat.”
