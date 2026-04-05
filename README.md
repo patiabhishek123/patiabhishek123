@@ -12,28 +12,27 @@ Backend Engineer • AI Enthusiast • Web3 Explorer
 
 ---
 
+---
+
 ## 🛠️ Tech Stack
-**Languages:**  
-Java • Go • TypeScript • Python  
+**Languages:** Java • Go • TypeScript • Python  
 
-**Backend:**  
-Spring Boot • Node.js • Express • REST APIs  
+**Backend:** Node.js,Express • FastApi • REST APIs • System Design  
 
-**Databases:**  
-PostgreSQL • MongoDB • Redis  
+**AI/ML:** LangChain • RAG • Vector DBs  
 
-**DevOps & Tools:**  
-Docker • Kubernetes • GitHub Actions • Linux  
+**Databases:** PostgreSQL • MongoDB • Redis  
 
-**Other:**  
-LangChain • Pinecone • Solidity  
+**DevOps:** Docker • Linux • Kubernetes • AWS / GCP
+
+**Web3:** Solidity • Solana  
 
 ---
 
-## 📌 Current Focus
-- Building production-ready backend systems  
-- Contributing to open source  
-- Preparing for backend & AI roles  
+## 🎯 Current Focus
+- Backend Intern / Full-time roles  
+- Open Source (Keploy ,LFX, CNCF ecosystem)  
+- Advanced system design & scalability   
 
 ---
 
@@ -45,9 +44,8 @@ LangChain • Pinecone • Solidity
 ---
 
 ## 🌐 Connect
-- LinkedIn: <your-link>
-- Portfolio: <your-link>
-- Email: <your-email>
+- LinkedIn:![Abhishek Pati](https://www.linkedin.com/in/abhishek-pati-627620282/)
+- Email: abhishekcloud2003@gmail.com
 
 ---
 
