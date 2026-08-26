@@ -8,7 +8,7 @@
   <a href="https://github.com/patiabhishek123">
     <img src="https://img.shields.io/badge/GitHub-patiabhishek123-0d1117?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/abhishek-pati-627620282/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=patiabhishek123&style=for-the-badge&color=00d9ff" />
